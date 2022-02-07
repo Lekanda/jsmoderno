@@ -1,7 +1,9 @@
-console.time('Hola'); // 
-console.warn('Algo salio mal');
-console.warn('Algo salio mal');
-console.warn('Algo salio mal');
-console.warn('Algo salio mal');
-console.warn('Algo salio mal');
-console.timeEnd('Hola'); // Da le tiempo que tarda en ejecutar, con el de arriba
+console.log('Hola');
+console.log('Mundo');
+
+function hola() {
+    log('Hola');
+    log('Hola');
+    log('Hola');
+    log('Hola');
+}
