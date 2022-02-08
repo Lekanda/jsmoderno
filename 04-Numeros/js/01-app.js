@@ -15,4 +15,4 @@ const numero5 = -3;
 // Otra forma de crear número 
 
 const numero8 = new Number(20);
-// console.log(numero8);
+console.log(numero8);
