@@ -1,5 +1,5 @@
 // Veamos otras comparaciones
-const puntaje = 1000;
+
 
 // No es igual
 if(puntaje != 1000) {
